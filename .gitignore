@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> 1a66514f4b992c311f2b8e117f5716dff0c0a548
 
 # C extensions
 *.so
@@ -61,5 +64,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+<<<<<<< HEAD
 # vim undo files
 *.un~
