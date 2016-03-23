@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> 1a66514f4b992c311f2b8e117f5716dff0c0a548
 =======
 >>>>>>> 1a66514f4b992c311f2b8e117f5716dff0c0a548
 
@@ -64,6 +67,5 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
-<<<<<<< HEAD
 # vim undo files
 *.un~
